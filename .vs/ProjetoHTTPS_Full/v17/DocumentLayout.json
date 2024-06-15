@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduardo\\source\\repos\\ProjetoHTTPS_Full\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84CDDC26-6F2A-43BC-9841-97C77704CAD2}|ProjetoHTTPS_Full.csproj|c:\\users\\eduardo\\source\\repos\\projetohttps_full\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84CDDC26-6F2A-43BC-9841-97C77704CAD2}|ProjetoHTTPS_Full.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CDDC26-6F2A-43BC-9841-97C77704CAD2}|ProjetoHTTPS_Full.csproj|c:\\users\\eduardo\\source\\repos\\projetohttps_full\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CDDC26-6F2A-43BC-9841-97C77704CAD2}|ProjetoHTTPS_Full.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CDDC26-6F2A-43BC-9841-97C77704CAD2}|ProjetoHTTPS_Full.csproj|c:\\users\\eduardo\\source\\repos\\projetohttps_full\\projetohttps_full.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{84CDDC26-6F2A-43BC-9841-97C77704CAD2}|ProjetoHTTPS_Full.csproj|solutionrelative:projetohttps_full.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CDDC26-6F2A-43BC-9841-97C77704CAD2}|ProjetoHTTPS_Full.csproj|c:\\users\\eduardo\\source\\repos\\projetohttps_full\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CDDC26-6F2A-43BC-9841-97C77704CAD2}|ProjetoHTTPS_Full.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eduardo\\source\\repos\\ProjetoHTTPS_Full\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\eduardo\\source\\repos\\ProjetoHTTPS_Full\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T00:51:34.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo\\source\\repos\\ProjetoHTTPS_Full\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\eduardo\\source\\repos\\ProjetoHTTPS_Full\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:27:44.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo\\source\\repos\\ProjetoHTTPS_Full\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eduardo\\source\\repos\\ProjetoHTTPS_Full\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:12:55.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjetoHTTPS_Full.http",
+              "DocumentMoniker": "C:\\Users\\eduardo\\source\\repos\\ProjetoHTTPS_Full\\ProjetoHTTPS_Full.http",
+              "RelativeDocumentMoniker": "ProjetoHTTPS_Full.http",
+              "ToolTip": "C:\\Users\\eduardo\\source\\repos\\ProjetoHTTPS_Full\\ProjetoHTTPS_Full.http",
+              "RelativeToolTip": "ProjetoHTTPS_Full.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-15T00:12:41.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
